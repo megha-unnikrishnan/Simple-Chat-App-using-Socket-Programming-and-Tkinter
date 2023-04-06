@@ -11,6 +11,6 @@ Steps:
 
 #Check python and tkinter installed
 
-Run python serve_chatr.py in Terminal.
+Run python serve_chat.py in Terminal.
 
 Run python3 client_chat.py in Terminal.
